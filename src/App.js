@@ -25,8 +25,19 @@ const App = () => {
           color: "teal",
         }}
       >
-        My First React-Redux App
+        A Simple Counter App
       </h1>
+
+      <h2
+        style={{
+          fontSize: "30px",
+          textAlign: "center",
+          marginTop: "20px",
+          color: "teal",
+        }}
+      >
+        built with React-Redux
+      </h2>
       <div
         style={{
           width: "700px",
@@ -57,6 +68,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
@@ -70,6 +82,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
@@ -83,6 +96,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
@@ -96,6 +110,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
@@ -109,6 +124,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
@@ -122,6 +138,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
@@ -135,6 +152,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
@@ -148,6 +166,7 @@ const App = () => {
           <button
             style={{
               fontSize: "20px",
+              cursor: "pointer",
               color: "teal",
               border: "1px solid teal",
               borderRadius: "6px",
