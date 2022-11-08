@@ -32,7 +32,7 @@ const App = () => {
         style={{
           fontSize: "30px",
           textAlign: "center",
-          marginTop: "20px",
+          marginTop: "15px",
           color: "teal",
         }}
       >
